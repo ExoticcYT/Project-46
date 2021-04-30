@@ -1,2 +1,2 @@
-# p5.play-boilerplate
-Boiler plate for p5.play
+# made using the hands of Exoticc
+p5.js libraries were used to make this as well
